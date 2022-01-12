@@ -1,3 +1,6 @@
+# referrence:
+https://medium.com/@thanawitsupinnapong/setting-up-hyperledger-explorer-on-fabric-5f1f7cda73b3
+
 # 1 - edit peers, orderers and CAs - in connection-profile/*.json file
 
 # 2 - edit IPs of peers, orderers and CAs in - connection-profile/*.json file
